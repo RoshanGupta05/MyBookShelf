@@ -1,0 +1,16 @@
+/* src/components/BookshelfPage.css */
+.bookshelf {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.search-button {
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
